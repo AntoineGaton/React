@@ -60,7 +60,7 @@ This project is a solution to the Ramp CTF (Capture The Flag) challenge, which i
 3. Run development server: `npm run dev`
 4. Open browser at indicated URL
 
-### Antoine's Thoughts
+## Antoine's Thoughts
 
 This challenge stands out as one of the most coolest technical assessments I've encountered in a job application. While it required a meaningful time investment, the experience was both enjoyable and educational. The challenge strikes an excellent balance between traditional algorithmic interviews and full-scale project assignments.
 
